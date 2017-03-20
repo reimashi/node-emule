@@ -1,0 +1,7 @@
+{
+  "name": "emule-node",
+  "dependencies": {
+    "cheerio": "registry:npm/cheerio#0.20.0+20160422172414",
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  }
+}
